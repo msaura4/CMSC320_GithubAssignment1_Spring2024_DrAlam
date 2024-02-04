@@ -1,0 +1,1 @@
+By taking CMSC320, I am looking to gain a better understanding of databases and to build a basis for my study of machine learning.
